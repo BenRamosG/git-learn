@@ -1,4 +1,4 @@
 # git-learn
 
 
-This repository is to learn about Github. ;) This is new
+This repository is to learn about Github. ;) This is new for us.
